@@ -150,8 +150,8 @@ body {
   display: flex;
   justify-content:center;
   align-items: center;
-  background: #0d0d0d;
-  background:rgba(26,26,26,0.9);
+  background: #000d1a;
+  background:rgba(0,13,26,0.9);
   color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1.25em;
